@@ -6,8 +6,8 @@ e consumir com **Reacjs**
 
 ## requisitos
 
-- [ ] Criar rotas de api em express para criar/atualizar/obter/deletar Notes
+- [x] Criar rotas de api em express para criar/atualizar/obter/deletar Notes
 - [ ] Os notes devem conter informação de data de criação e vezes que foram visualizados
-- [ ] Adicionar os posts em banco de dados
+- [x] Adicionar os posts em banco de dados
 - [ ] Criar o frontend com ReactJS
 
